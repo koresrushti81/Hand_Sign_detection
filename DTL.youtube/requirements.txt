@@ -1,0 +1,12 @@
+# Core Dependencies
+opencv-python>=4.10.0
+cvzone>=1.6.1
+pillow>=11.0.0
+numpy<2.0.0,>=1.26.0
+mediapipe==0.10.21
+tensorflow==2.18.0
+protobuf==4.25.3
+keras>=3.5.0
+scikit-learn
+matplotlib
+seaborn
